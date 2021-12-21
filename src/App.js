@@ -46,9 +46,7 @@ function App() {
       <AppBar theme={theme}>
         <Toolbar >
           <IconButton>
-
             <Typography>Brend</Typography>
-
           </IconButton>
         </Toolbar>
       </AppBar>
