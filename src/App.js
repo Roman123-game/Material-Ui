@@ -11,6 +11,7 @@ import { Grid } from '@material-ui/core';
 
 
 
+
 const useStyles = makeStyles({
   root:{
     background: 'linear-gradient(45deg, #fe6b8b, #ff8e53)',
@@ -49,7 +50,7 @@ function App() {
             <Typography>Brend</Typography>
           </IconButton>
         </Toolbar>
-      </AppBar>
+      </AppBar>{AccessAlarmIcon}
         </ThemeProvider>
       <Container maxWidth="md">
      <Typography variant='h2'>Welcome to time schedule</Typography>
